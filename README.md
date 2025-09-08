@@ -35,7 +35,7 @@ Abra o arquivo `index.js` e adicione um novo endpoint. Exemplo para exibir infor
 
 ```js
 app.get('/usuario', (req, res) => {
-  res.json({ nome: 'Renan', idade: 30 });
+  res.json({ nome: 'Renan', idade: ??, música favorita: tequila });
 });
 ```
 
